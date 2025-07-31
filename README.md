@@ -3,7 +3,7 @@
 This repository contains a technical internship report titled:
 
 **"Manufacturing Process and Characterization of a Commercial Photodiode"**  
-Prepared at **NANOTAM & AB Mikro Nano**, July 2025  
+Prepared at **Aselsan Bilkent Mikro Nano Teknolojileri San. ve Tic. A.Ş**, July 2025  
 by **Nazlıcan Yıldırım**, Middle East Technical University
 
 ---
